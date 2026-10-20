@@ -1,0 +1,166 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "Accessibility": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accessibilité"
+          }
+        }
+      }
+    },
+    "Keyboard locked – cleaning in progress": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clavier verrouillé – nettoyage en cours"
+          }
+        }
+      }
+    },
+    "Lock Keyboard": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verrouiller le clavier"
+          }
+        }
+      }
+    },
+    "Lock the trackpad too": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verrouiller aussi le trackpad"
+          }
+        }
+      }
+    },
+    "Locking": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verrouillage"
+          }
+        }
+      }
+    },
+    "Only the timer can end the lock when the trackpad is locked.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quand le trackpad est verrouillé, seule la minuterie peut mettre fin au verrouillage."
+          }
+        }
+      }
+    },
+    "Open System Settings": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir les Réglages Système"
+          }
+        }
+      }
+    },
+    "Quit WypeLock": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quitter WypeLock"
+          }
+        }
+      }
+    },
+    "Settings…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réglages…"
+          }
+        }
+      }
+    },
+    "The trackpad is locked too. Everything unlocks when the timer ends.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le trackpad est aussi verrouillé. Tout se déverrouille à la fin de la minuterie."
+          }
+        }
+      }
+    },
+    "Time remaining": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temps restant"
+          }
+        }
+      }
+    },
+    "Unlock": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Déverrouiller"
+          }
+        }
+      }
+    },
+    "Unlock automatically after": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Déverrouiller automatiquement après"
+          }
+        }
+      }
+    },
+    "WypeLock Settings": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réglages de WypeLock"
+          }
+        }
+      }
+    },
+    "WypeLock is allowed to block the keyboard.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WypeLock est autorisé à bloquer le clavier."
+          }
+        }
+      }
+    },
+    "WypeLock needs Accessibility access to intercept key presses. Enable WypeLock in System Settings > Privacy & Security > Accessibility.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WypeLock a besoin de l’accès Accessibilité pour intercepter les frappes. Activez WypeLock dans Réglages Système > Confidentialité et sécurité > Accessibilité."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
